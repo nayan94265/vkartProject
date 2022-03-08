@@ -1,0 +1,13 @@
+.mainContainer{
+    display: flex;
+justify-content:color ;
+/* background-color:#D1E6EA; */
+background-color: blue;
+border-radius:10px;
+margin-left: auto;
+width: 900px;
+min-height: 600px;
+margin-right: auto;
+box-shadow: rgb(0 0 0 / 80%) 0px 40px 58px -16px,
+      rgb(0 0 0 / 72%) 0px 30px 22px -10px;
+}
